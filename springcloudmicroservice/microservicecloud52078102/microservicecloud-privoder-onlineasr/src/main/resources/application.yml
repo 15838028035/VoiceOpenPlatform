@@ -1,0 +1,40 @@
+server:
+  port: 19003
+
+spring:
+   application:
+    name: microservicecloud-onlineasr
+   datasource:
+
+    url: jdbc:mysql://192.168.14.215:3306/thinkit              # 数据库名称
+    username: root
+    password: 123456
+    dbcp2:
+      min-idle: 5                                           # 数据库连接池的最小维持连接数
+      initial-size: 5                                       # 初始化连接数
+      max-total: 5                                          # 最大连接数
+      max-wait-millis: 200                                  # 等待连接获取的最大超时时间
+
+eureka:
+  client: #客户端注册进eureka服务列表内
+    service-url:
+      #defaultZone: http://localhost:7001/eureka
+       defaultZone: http://127.0.0.1:18081/eureka/,http://127.0.0.1:18082/eureka/
+  instance:
+    instance-id: microservicecloud-provider-onlineasr-p19003
+    prefer-ip-address: true     #访问路径可以显示IP地址
+
+info:
+  app.name: thinkit-microservicecloud
+  company.name: www.thinkit.com
+  build.artifactId: $project.artifactId$
+  build.version: $project.version$
+
+
+onlineasr:
+   ServerIp: 192.168.14.203
+   ServerPort:  80
+
+
+logging:
+  config: classpath:logback-thinkit.xml

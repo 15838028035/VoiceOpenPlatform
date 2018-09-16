@@ -1,0 +1,12 @@
+server:
+  port: 20001
+eureka:
+  client:
+    register-with-eureka: false
+    service-url:
+       #defaultZone:  http://www.eureka02.com:18082/eureka/,http://www.eureka01.com:18081/eureka/
+        defaultZone: http://127.0.0.1:18081/eureka/,http://127.0.0.1:18082/eureka/
+
+
+logging:
+  config: classpath:logback-thinkit.xml

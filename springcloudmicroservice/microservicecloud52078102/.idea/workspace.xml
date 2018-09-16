@@ -1,0 +1,1308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="microservicecloud-privoder-userlogin:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2c2cc9e4-bf23-4999-9847-3a8c5e2b94d2" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud-api/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud-eureka01/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud-eureka02/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud-provider-tts/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud-privoder-onlineasr/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud-privoder-nlu/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud-privoder-voiceprint/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud-configserver/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud-configclient/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud-consumer-tts/target/" />
+    <ignored path="$PROJECT_DIR$/comthinkitmicroservice-consumer-service/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud-consumer-service/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud-privoder-userlogin/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud-consumer-userlogin/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud-privoder-console/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud-consumer-console/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud-provider-onlinetts/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="RealtimeAsr.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservicecloud-privoder-onlineasr/src/main/java/com/thinkit/microservicecloud/controller/RealtimeAsr.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1824">
+              <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RealtimeAsr2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservicecloud-privoder-onlineasr/src/main/java/com/thinkit/microservicecloud/controller/RealtimeAsr2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2413">
+              <caret line="27" column="72" lean-forward="true" selection-start-line="27" selection-start-column="72" selection-end-line="27" selection-end-column="72" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OnlineASR_privoder_App.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservicecloud-privoder-onlineasr/src/main/java/com/thinkit/OnlineASR_privoder_App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="4" column="67" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservicecloud-privoder-onlineasr/src/main/java/com/thinkit/microservicecloud/controller/TestController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="343">
+              <caret line="48" column="131" selection-start-line="48" selection-start-column="120" selection-end-line="48" selection-end-column="131" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InterceptorConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservicecloud-privoder-console/src/main/java/com/thinkit/microservicecloud/aop/InterceptorConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5">
+              <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OnlineASR_controller.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservicecloud-privoder-onlineasr/src/main/java/com/thinkit/microservicecloud/controller/OnlineASR_controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2870">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="XmlUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservicecloud-privoder-onlineasr/src/main/java/com/thinkit/microservicecloud/service/XmlUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="417">
+              <caret line="63" column="33" selection-start-line="63" selection-start-column="33" selection-end-line="63" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IOnlineAsrService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservicecloud-api/src/main/java/com/thinkit/microservicecloud/service/IOnlineAsrService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="27" column="69" lean-forward="true" selection-start-line="27" selection-start-column="69" selection-end-line="27" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServiceProductController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-console/src/main/java/com/thinkit/microservicecloud/controller/ServiceProductController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OnlineASR_feignController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-service/src/main/java/com/thinkit/microservicecloud/comtroller/OnlineASR_feignController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="34" column="56" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="56" />
+              <folding>
+                <element signature="e#1514#1515#0" expanded="true" />
+                <element signature="e#1543#1544#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>findall</find>
+      <find>selectByPhone</find>
+      <find>sign</find>
+      <find>getValue</find>
+      <find>setkeyEffective</find>
+      <find>Bse64MapInfo</find>
+      <find>myb</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/microservicecloud-privoder-userlogin/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-consumer-userlogin/src/main/java/com/thinkit/microservicecloud/controller/UserValidation_feignController.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-privoder-voiceprint/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-consumer-service/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-consumer-service/src/main/resources/logback-thinkit.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-consumer-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservicecloud-privoder-voiceprint/src/main/java/com/thinkit/microservicecloud/controller/VoicePrintController.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-privoder-console/src/main/java/com/thinkit/microservicecloud/service/impl/PersonalCertificateServiceImpl.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-privoder-console/src/main/java/com/thinkit/microservicecloud/service/PersonalCerstificateService.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-privoder-console/src/main/java/com/thinkit/microservicecloud/dao/PersonalCertificateCurd.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-privoder-console/src/main/java/com/thinkit/microservicecloud/controller/SDKdownloadController.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-privoder-console/src/main/java/com/thinkit/microservicecloud/dao/CompanyCertificateCurd.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-privoder-console/src/main/java/com/thinkit/microservicecloud/service/CompanyCerstificateService.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-privoder-console/src/main/java/com/thinkit/microservicecloud/service/impl/CompanyCertificateServiceImpl.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-privoder-console/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservicecloud-api/src/main/java/com/thinkit/microservicecloud/entities/console/Personal_Certificate.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-privoder-console/src/main/resources/mybatis/mapper/PersonalCertificateCurdMapper.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-api/src/main/java/com/thinkit/microservicecloud/entities/console/Company_Certificate.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-privoder-console/src/main/resources/mybatis/mapper/CompanyCertificateCurdMapper.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-privoder-console/src/main/java/com/thinkit/microservicecloud/controller/CompanyInfoController.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-privoder-console/src/main/java/com/thinkit/microservicecloud/controller/PersonalInfoController.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-privoder-console/src/main/resources/logback-thinkit.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-api/src/main/java/com/thinkit/microservicecloud/entities/tts/ParamsTTS.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-provider-tts/src/main/java/com/thinkit/microservicecloud/controller/OnlineTTS.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-privoder-nlu/src/main/java/com/thinkit/microservicecloud/controller/TtsController.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-privoder-nlu/src/main/java/com/thinkit/Privoder_Tts_app.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-privoder-nlu/src/main/resources/logback-thinkit.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-privoder-nlu/src/main/java/com/thinkit/microservicecloud/config/RestTemplateConfig.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-privoder-nlu/src/main/java/com/thinkit/microservicecloud/config/CustomCORSConfiguration.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-privoder-nlu/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-consumer-service/src/main/java/com/thinkit/config/RestTemplateConfig.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-provider-tts/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservicecloud-privoder-nlu/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservicecloud-consumer-service/src/main/java/com/thinkit/microservicecloud/comtroller/OnlineTtsController.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-privoder-onlineasr/src/main/java/com/thinkit/microservicecloud/controller/Bse64MapInfo.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-api/src/main/java/com/thinkit/microservicecloud/entities/onlineasr/PointCut.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-privoder-onlineasr/src/main/java/com/thinkit/microservicecloud/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-privoder-onlineasr/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-privoder-nlu/src/main/java/com/thinkit/microservicecloud/controller/OnlineTTS.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-consumer-service/src/main/java/com/thinkit/microservicecloud/comtroller/OnlineTTS_feignController.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-api/src/main/java/com/thinkit/microservicecloud/service/IOnlineTTSService.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-privoder-onlineasr/src/main/java/com/thinkit/microservicecloud/controller/ThreadBase64.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-api/src/main/java/com/thinkit/microservicecloud/entities/onlineasr/RealtimeAsrReq.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-privoder-onlineasr/src/main/java/com/thinkit/microservicecloud/controller/tran.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-privoder-onlineasr/src/main/java/com/thinkit/microservicecloud/controller/RealtimeAsr2.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-privoder-onlineasr/src/main/java/com/thinkit/microservicecloud/controller/RealtimeAsr.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-privoder-onlineasr/src/main/java/com/thinkit/microservicecloud/service/XmlUtil.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-privoder-onlineasr/src/main/java/com/thinkit/microservicecloud/controller/RealtimeAsr3.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-api/src/main/java/com/thinkit/microservicecloud/service/IOnlineAsrService.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-consumer-service/src/main/java/com/thinkit/microservicecloud/comtroller/OnlineASR_feignController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/D/maven/apache-maven-3.3.9" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="microservicecloud-api" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="microservicecloud-api" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="microservicecloud-privoder-userlogin" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="microservicecloud-privoder-userlogin" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="true" />
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="microservicecloud52078102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud52078102" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud52078102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud52078102" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud52078102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud52078102" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud52078102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud52078102" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud52078102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud52078102" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud52078102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud52078102" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-consumer-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud52078102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud52078102" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-consumer-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud52078102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud52078102" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-consumer-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud52078102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud52078102" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-consumer-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud52078102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud52078102" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-consumer-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="comtroller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud52078102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud52078102" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-privoder-console" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud52078102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud52078102" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-privoder-console" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud52078102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud52078102" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-privoder-console" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud52078102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud52078102" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-privoder-console" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud52078102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud52078102" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-privoder-console" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud52078102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud52078102" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-privoder-console" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud52078102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud52078102" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-privoder-nlu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud52078102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud52078102" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-privoder-nlu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud52078102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud52078102" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-privoder-nlu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud52078102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud52078102" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-privoder-nlu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud52078102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud52078102" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-privoder-nlu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud52078102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud52078102" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-privoder-nlu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud52078102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud52078102" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-privoder-onlineasr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud52078102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud52078102" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-privoder-onlineasr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud52078102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud52078102" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-privoder-onlineasr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud52078102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud52078102" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-privoder-onlineasr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud52078102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud52078102" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-privoder-onlineasr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="thinkit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud52078102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud52078102" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-privoder-onlineasr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud52078102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud52078102" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-provider-tts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud52078102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud52078102" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-provider-tts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud52078102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud52078102" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-provider-tts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud52078102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud52078102" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-provider-tts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud52078102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud52078102" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-provider-tts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="thinkit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud52078102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud52078102" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-provider-tts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud52078102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud52078102" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-provider-tts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud52078102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud52078102" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-provider-tts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud52078102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud52078102" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-provider-tts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.4047619" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\应用开发组git\离线分析平台\microservicecloud52078102\microservicecloud-privoder-onlineasr\src\main\resources" />
+      <recent name="D:\应用开发组git\离线分析平台\microservicecloud52078102\microservicecloud-privoder-onlineasr\src\main\resources\linux-x86-64" />
+      <recent name="D:\应用开发组git\离线分析平台\microservicecloud52078102\microservicecloud-privoder-onlineasr\src\main\java\com\thinkit\microservicecloud\controller" />
+      <recent name="D:\应用开发组git\离线分析平台\microservicecloud52078102\microservicecloud-privoder-nlu\src\main\resources" />
+      <recent name="D:\应用开发组git\离线分析平台\microservicecloud52078102\microservicecloud-privoder-nlu\src\main\java\com\thinkit\microservicecloud\controller" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.thinkit.microservicecloud.controller" />
+      <recent name="com.thinkit.config" />
+      <recent name="com.thinkit.microservicecloud.comtroller" />
+      <recent name="com.thinkit.microservicecloud.config" />
+      <recent name="com.thinkit.microservicecloud.service.impl" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\应用开发组git\离线分析平台\microservicecloud52078102\microservicecloud-privoder-onlineasr\src\main\resources\linux-x86-64" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.OnlineASR_privoder_App">
+    <configuration name="RealtimeAsr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thinkit.microservicecloud.controller.RealtimeAsr" />
+      <module name="microservicecloud-privoder-onlineasr" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thinkit.microservicecloud.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="tran" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thinkit.microservicecloud.controller.tran" />
+      <module name="microservicecloud-privoder-onlineasr" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thinkit.microservicecloud.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Comsumer_Services_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microservicecloud-consumer-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thinkit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.thinkit.Comsumer_Services_App" />
+    </configuration>
+    <configuration name="Consumer_console_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservicecloud-consumer-console" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.thinkit.Consumer_console_App" />
+    </configuration>
+    <configuration name="Consumer_userlogin_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservicecloud-consumer-userlogin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.thinkit.Consumer_userlogin_App" />
+    </configuration>
+    <configuration name="EurekaApp01" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microservicecloudeureka01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thinkit.microservicecloud.eureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.thinkit.microservicecloud.eureka.EurekaApp01" />
+    </configuration>
+    <configuration name="EurekaApp02" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservicecloudeureka02" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.thinkit.microservicecloud.eureka.EurekaApp02" />
+    </configuration>
+    <configuration name="MicroservicecloudApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservicecloud-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.thinkit.microservicecloudapi.MicroservicecloudApiApplication" />
+    </configuration>
+    <configuration name="OnlineASR_privoder_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservicecloud-privoder-onlineasr" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.thinkit.OnlineASR_privoder_App" />
+    </configuration>
+    <configuration name="Privoder_Tts_app" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservicecloud-privoder-nlu" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.thinkit.Privoder_Tts_app" />
+    </configuration>
+    <configuration name="Tts_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microservicecloud-provider-tts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thinkit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.thinkit.Tts_App" />
+    </configuration>
+    <configuration name="UserLogin_Privoder_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservicecloud-privoder-userlogin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.thinkit.UserLogin_Privoder_App" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.MicroservicecloudApiApplication" />
+      <item itemvalue="Spring Boot.EurekaApp02" />
+      <item itemvalue="Spring Boot.Privoder_Tts_app" />
+      <item itemvalue="Spring Boot.OnlineASR_privoder_App" />
+      <item itemvalue="Spring Boot.Consumer_userlogin_App" />
+      <item itemvalue="Spring Boot.Consumer_console_App" />
+      <item itemvalue="Spring Boot.UserLogin_Privoder_App" />
+      <item itemvalue="Spring Boot.EurekaApp01" />
+      <item itemvalue="Spring Boot.Comsumer_Services_App" />
+      <item itemvalue="Spring Boot.Tts_App" />
+      <item itemvalue="Application.RealtimeAsr" />
+      <item itemvalue="Application.tran" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.EurekaApp01" />
+        <item itemvalue="Application.tran" />
+        <item itemvalue="Spring Boot.Comsumer_Services_App" />
+        <item itemvalue="Application.RealtimeAsr" />
+        <item itemvalue="Spring Boot.Tts_App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c2cc9e4-bf23-4999-9847-3a8c5e2b94d2" name="Default" comment="" />
+      <created>1532509818484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532509818484</updated>
+      <workItem from="1532509821435" duration="4120000" />
+      <workItem from="1532514057263" duration="7926000" />
+      <workItem from="1532567548757" duration="20408000" />
+      <workItem from="1532679841729" duration="7031000" />
+      <workItem from="1532913666367" duration="18223000" />
+      <workItem from="1533000840449" duration="15565000" />
+      <workItem from="1533103473589" duration="11561000" />
+      <workItem from="1533173667750" duration="734000" />
+      <workItem from="1533179248288" duration="8569000" />
+      <workItem from="1533205911088" duration="1331000" />
+      <workItem from="1533259032465" duration="25122000" />
+      <workItem from="1533519577841" duration="9648000" />
+      <workItem from="1533536568857" duration="36000" />
+      <workItem from="1533537060412" duration="8651000" />
+      <workItem from="1533605279772" duration="11854000" />
+      <workItem from="1533699658050" duration="1827000" />
+      <workItem from="1533779245732" duration="892000" />
+      <workItem from="1534131288924" duration="17370000" />
+      <workItem from="1534210574635" duration="3267000" />
+      <workItem from="1534215299433" duration="24000" />
+      <workItem from="1534215850158" duration="13577000" />
+      <workItem from="1534297069925" duration="19971000" />
+      <workItem from="1534383466348" duration="17988000" />
+      <workItem from="1534469035099" duration="15056000" />
+      <workItem from="1534728818385" duration="13463000" />
+      <workItem from="1534815146120" duration="3821000" />
+      <workItem from="1534904216978" duration="15826000" />
+      <workItem from="1534987663359" duration="2087000" />
+      <workItem from="1535074195306" duration="10827000" />
+      <workItem from="1535349936316" duration="1491000" />
+      <workItem from="1535507430943" duration="11065000" />
+      <workItem from="1535527093426" duration="10692000" />
+      <workItem from="1535594630966" duration="11259000" />
+      <workItem from="1535695401832" duration="2442000" />
+      <workItem from="1535938056277" duration="20562000" />
+      <workItem from="1536110853840" duration="6303000" />
+      <workItem from="1536196751126" duration="779000" />
+      <workItem from="1536284195144" duration="12013000" />
+      <workItem from="1536496973946" duration="1522000" />
+      <workItem from="1536543606686" duration="1505000" />
+      <workItem from="1536655313362" duration="3285000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="369693000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.030831099" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="3" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info id="UI Designer" order="5" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.23305085" />
+      <window_info anchor="bottom" id="TODO" order="8" weight="0.32909605" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.38135594" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info id="Image Layers" order="4" />
+      <window_info anchor="bottom" id="Java Enterprise" order="1" weight="0.32909605" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.25564972" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32909605" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.85472155" visible="true" weight="0.3505362" />
+      <window_info anchor="right" id="Bean Validation" order="0" />
+      <window_info id="Web" order="0" sideWeight="0.14527845" side_tool="true" weight="0.31836462" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.41666666" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="23" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/microservicecloud-api/src/main/java/com/thinkit/microservicecloud/service/IUserLoginService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-tts/src/main/java/com/thinkit/microservicecloud/config/RestBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-tts/src/main/java/com/thinkit/microservicecloud/controller/TtsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-189">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-api/src/main/java/com/thinkit/microservicecloud/service/IConsoleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-privoder-nlu/src/main/java/com/thinkit/microservicecloud/config/RestTemplateConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="23" column="49" lean-forward="true" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-privoder-nlu/src/main/resources/logback-thinkit.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-onlinetts/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-privoder-nlu/src/main/java/com/thinkit/Privoder_Tts_app.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-service/src/main/java/com/thinkit/microservicecloud/comtroller/VoicePrintController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-service/src/main/java/com/thinkit/config/CustomCORSConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-service/src/main/java/com/thinkit/config/RestTemplateConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-api/src/main/java/com/thinkit/microservicecloud/entities/onlineasr/PointCut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-service/src/main/java/com/thinkit/microservicecloud/comtroller/TtsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-service/src/main/java/com/thinkit/microservicecloud/comtroller/VoicePrint_feignController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-privoder-onlineasr/src/main/java/com/thinkit/microservicecloud/controller/Bse64MapInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-privoder-onlineasr/src/main/resources/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-privoder-onlineasr/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="51" column="31" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-starter/1.3.0/mybatis-spring-boot-starter-1.3.0.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot/1.3.0/mybatis-spring-boot-1.3.0.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-665">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-tts/src/main/resources/mybatis/mybatis.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-service/src/main/java/com/thinkit/microservicecloud/comtroller/OnlineTtsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-service/src/main/java/com/thinkit/microservicecloud/comtroller/OnlineTTS_feignController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-api/src/main/java/com/thinkit/microservicecloud/service/IOnlineTTSService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-privoder-onlineasr/src/main/java/com/thinkit/microservicecloud/controller/ThreadBase64.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="52" column="91" selection-start-line="52" selection-start-column="91" selection-end-line="52" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-service/src/main/java/com/thinkit/Comsumer_Services_App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-privoder-nlu/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1577">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-privoder-nlu/src/main/java/com/thinkit/microservicecloud/controller/OnlineTTS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-privoder-nlu/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="15" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-tts/src/main/java/com/thinkit/microservicecloud/controller/TtsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-tts/src/main/java/com/thinkit/Tts_App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.0.4/mysql-connector-java-5.0.4.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-tts/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="53" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-tts/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-api/src/main/java/com/thinkit/microservicecloud/entities/onlineasr/VoiceRec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-api/src/main/java/com/thinkit/microservicecloud/entities/onlineasr/RealtimeAsrReq.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-privoder-onlineasr/src/main/java/com/thinkit/microservicecloud/controller/tran.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="37" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-console/src/main/java/com/thinkit/config/CustomCORSConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-privoder-console/src/main/java/com/thinkit/microservicecloud/aop/WebAppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="13" column="57" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-privoder-console/src/main/java/com/thinkit/microservicecloud/aop/InterceptorConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-privoder-onlineasr/src/main/java/com/thinkit/OnlineASR_privoder_App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="4" column="67" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-privoder-onlineasr/src/main/java/com/thinkit/microservicecloud/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="48" column="131" selection-start-line="48" selection-start-column="120" selection-end-line="48" selection-end-column="131" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-privoder-onlineasr/src/main/java/com/thinkit/microservicecloud/controller/OnlineASR_controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2870">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-privoder-onlineasr/src/main/java/com/thinkit/microservicecloud/service/XmlUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="63" column="33" selection-start-line="63" selection-start-column="33" selection-end-line="63" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-privoder-onlineasr/src/main/java/com/thinkit/microservicecloud/controller/RealtimeAsr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1824">
+          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-privoder-onlineasr/src/main/java/com/thinkit/microservicecloud/controller/RealtimeAsr3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="28" column="69" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="28" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-privoder-onlineasr/src/main/java/com/thinkit/microservicecloud/controller/RealtimeAsr2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2413">
+          <caret line="27" column="72" lean-forward="true" selection-start-line="27" selection-start-column="72" selection-end-line="27" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-api/src/main/java/com/thinkit/microservicecloud/service/IOnlineAsrService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="27" column="69" lean-forward="true" selection-start-line="27" selection-start-column="69" selection-end-line="27" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-console/src/main/java/com/thinkit/microservicecloud/controller/ServiceProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-service/src/main/java/com/thinkit/microservicecloud/comtroller/OnlineASR_feignController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="34" column="56" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="56" />
+          <folding>
+            <element signature="e#1514#1515#0" expanded="true" />
+            <element signature="e#1543#1544#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor>
+            <show-content>
+              <type id="artifact" />
+              <type id="javaee-facet-resources" />
+              <type id="jpa-descriptors" />
+              <type id="library" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>microservicecloud-privoder-userlogin:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4047619" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4047619" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4047619" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4047619" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>microservicecloud-configclient</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4047619" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
